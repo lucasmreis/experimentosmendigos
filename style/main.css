@@ -1,0 +1,32 @@
+body {
+  background-image:  url(http://i.giphy.com/KexyRPEQWEZry.gif);
+  /*background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed;*/
+  
+}
+
+.well {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h1 {
+  font-size: 4em;
+}
+
+.btn {
+  font-size: 2em;
+  height: 70px
+}
+
+.counter {
+  text-align: center;
+  margin: 50px 20px;
+}
+
+.counter img {
+  margin: 5px;
+}
