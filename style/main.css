@@ -1,7 +1,5 @@
 body {
-  background-image:  url(http://media.giphy.com/media/9c9tE5Pr0qElW/giphy.gif);
-  /*background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed;*/
-  
+  background-image: url('../bg.gif');
 }
 
 .well {
