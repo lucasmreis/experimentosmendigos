@@ -1,5 +1,10 @@
 body {
-  background-image: url('../bg.gif');
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.7), 
+      rgba(0, 0, 0, 0.7)
+    ),
+    url('../bg.gif');
 }
 
 .well {
